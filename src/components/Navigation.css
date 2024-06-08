@@ -1,0 +1,33 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1380px;
+    margin: 0 auto;
+    padding: 0 4.8px;
+    height: 120px;
+    top: 0;
+    align-items: center;
+    background: #5c3030;
+    border-radius: 30px;
+  }
+nav ul{
+    display: flex;
+    list-style: none;
+    gap:4.8rem;
+    color: #FFFFFF;
+    cursor: pointer;
+  }
+  nav ul li{
+    font-size:xx-large;
+    margin-right: 40px;
+  }
+.logo{
+    cursor: pointer;
+    font-size: 64px;
+    font-weight: 200;
+    line-height: 20px;
+    text-align:left;
+    
+
+}
+  
