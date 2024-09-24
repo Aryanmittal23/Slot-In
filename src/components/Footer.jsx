@@ -5,11 +5,11 @@ function Footer() {
     <div className='footer'>
       <footer>
         <ul>
-            <li>About us</li>
-            <li>Contact us</li>
-            <li>Follow</li>
-            <li>Services</li>
-            <li>Privacy Policy</li>
+            <li className='footer-btn'>About us</li>
+            <li className='footer-btn'>Contact us</li>
+            <li className='footer-btn'>Follow</li>
+            <li className='footer-btn'>Services</li>
+            <li className='footer-btn'>Privacy Policy</li>
         </ul>
       </footer>
     </div>

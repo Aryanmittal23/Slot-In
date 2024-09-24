@@ -8,10 +8,10 @@ function Navigation() {
       <div className='logo'>
         <img src={logo} alt="logo" />
       </div>
-      <ul>
-        <li href='#'>Home</li>
-        <li href='#'>About</li>
-        <li href='#'>login</li>
+      <ul >
+        <li className='navbar' >Home</li>
+        <li className='navbar' >About</li>
+        <li className='navbar' >login</li>
       </ul>
     </nav>
   )
